@@ -9,3 +9,4 @@ Welcome to my GitHub profile! I'm a 20-year-old hobby musician who occasionally 
 
 ## Contact
 Sorry, you can't reach me at the moment.
+Bio[https://guns.lol/yoghurt1337]
