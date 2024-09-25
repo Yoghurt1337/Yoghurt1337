@@ -9,5 +9,5 @@ Welcome to my GitHub profile! I'm a 20-year-old hobby musician who occasionally 
 
 ## Contact
 [Bio](https://guns.lol/Scrim1337)
-##Spotify
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bence1981&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=bence1981&redirect=true)
